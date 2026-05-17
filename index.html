@@ -6,26 +6,22 @@
   <title>Adam Britts</title>
 
   <style>
-
     body {
       margin: 0;
       font-family: Arial, sans-serif;
       color: white;
       text-align: center;
-
-      /* BACKGROUND IMAGE */
       background:
-        linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)),
-        url('./AdamLaboratory.jpeg');
-
+        linear-gradient(rgba(0,0,0,0.72), rgba(0,0,0,0.88)),
+        url("./AdamBil.jpg");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
     }
 
     .container {
+      min-height: 100vh;
       padding: 60px 20px;
-      backdrop-filter: blur(2px);
     }
 
     .profile {
@@ -35,13 +31,12 @@
       border-radius: 50%;
       border: 5px solid white;
       margin-bottom: 30px;
-      box-shadow: 0 0 30px rgba(255,255,255,0.25);
+      box-shadow: 0 0 35px rgba(0,0,0,0.8);
     }
 
     h1 {
-      font-size: 80px;
-      margin-bottom: 10px;
-      text-shadow: 0 0 20px rgba(0,0,0,0.8);
+      font-size: 76px;
+      margin: 10px 0;
     }
 
     h2 {
@@ -52,22 +47,22 @@
     }
 
     p {
-      font-size: 24px;
-      max-width: 950px;
+      max-width: 900px;
       margin: 40px auto;
+      font-size: 24px;
       line-height: 1.7;
       background: rgba(0,0,0,0.45);
-      padding: 25px;
-      border-radius: 15px;
+      padding: 24px;
+      border-radius: 16px;
     }
 
     .gallery {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 25px;
+      gap: 22px;
       margin-top: 70px;
-      padding-bottom: 50px;
+      padding-bottom: 60px;
     }
 
     .gallery img {
@@ -75,22 +70,14 @@
       height: 380px;
       object-fit: cover;
       border-radius: 16px;
-      transition: all 0.3s ease;
-      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+      box-shadow: 0 0 25px rgba(0,0,0,0.7);
     }
-
-    .gallery img:hover {
-      transform: scale(1.04);
-    }
-
   </style>
 </head>
 
 <body>
-
   <div class="container">
 
-    <!-- PROFILE PHOTO -->
     <img src="./AdamBILD5.jpeg" class="profile">
 
     <h1>Adam Britts</h1>
@@ -99,18 +86,16 @@
 
     <p>
       Chemical engineer interested in process engineering,
-      optimization, industrial systems, and technical problem solving. I am also James Bond 007.
+      optimization, industrial systems, and technical problem solving.
     </p>
 
-    <!-- GALLERY -->
     <div class="gallery">
       <img src="./AdamBILD3.jpeg">
-      <img src="./AdamBond3.png">
       <img src="./AdamBond4.png">
       <img src="./AdamBond5.png">
+      <img src="./AdamLaboratory.jpeg">
     </div>
 
   </div>
-
 </body>
 </html>
