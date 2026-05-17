@@ -6,43 +6,67 @@
   <title>Adam Britts</title>
 
   <style>
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #111;
+      background-color: #000;
       color: white;
       text-align: center;
     }
 
     .hero {
-      padding: 80px 20px;
+      padding: 60px 20px;
+    }
+
+    .profile {
+      width: 260px;
+      height: 260px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 5px solid white;
+      margin-bottom: 30px;
     }
 
     h1 {
-      font-size: 64px;
+      font-size: 72px;
       margin-bottom: 10px;
     }
 
     h2 {
+      font-size: 28px;
+      color: #aaaaaa;
       font-weight: normal;
-      color: #aaa;
       margin-bottom: 40px;
     }
 
-    .profile {
-      width: 220px;
-      border-radius: 50%;
-      border: 4px solid white;
-      margin-bottom: 30px;
+    p {
+      max-width: 900px;
+      margin: auto;
+      font-size: 22px;
+      line-height: 1.8;
+      color: #dddddd;
     }
 
-    p {
-      max-width: 700px;
-      margin: auto;
-      line-height: 1.7;
-      font-size: 20px;
-      color: #ddd;
+    .gallery {
+      margin-top: 80px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding-bottom: 80px;
     }
+
+    .gallery img {
+      width: 300px;
+      border-radius: 16px;
+      transition: transform 0.3s ease;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.03);
+    }
+
   </style>
 </head>
 
@@ -50,7 +74,7 @@
 
   <div class="hero">
 
-    <img src="profile.jpg" class="profile">
+    <img src="AdamBILD3.jpeg" class="profile">
 
     <h1>Adam Britts</h1>
 
@@ -60,6 +84,18 @@
       Chemical engineer interested in process engineering,
       optimization, industrial systems, and technical problem solving.
     </p>
+
+    <div class="gallery">
+
+      <img src="AdamBILD5.jpeg">
+
+      <img src="HamburgAdam.jpg">
+
+      <img src="AdamBond4.png">
+
+      <img src="AdamBond5.png">
+
+    </div>
 
   </div>
 
