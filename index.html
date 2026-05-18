@@ -1,101 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adam Britts</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Britts | Chemical Engineer</title>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      color: white;
-      text-align: center;
-      background:
-        linear-gradient(rgba(0,0,0,0.72), rgba(0,0,0,0.88)),
-        url("./AdamBil.jpg");
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
-    }
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    .container {
-      min-height: 100vh;
-      padding: 60px 20px;
-    }
+        body {
+            font-family: Arial, sans-serif;
+            color: white;
+            text-align: center;
 
-    .profile {
-      width: 240px;
-      height: 240px;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 5px solid white;
-      margin-bottom: 30px;
-      box-shadow: 0 0 35px rgba(0,0,0,0.8);
-    }
+            /* Background image */
+            background:
+                linear-gradient(rgba(0,0,0,0.72), rgba(0,0,0,0.72)),
+                url('CoverPhoto.png');
 
-    h1 {
-      font-size: 76px;
-      margin: 10px 0;
-    }
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
 
-    h2 {
-      font-size: 34px;
-      color: #d0d0d0;
-      font-weight: normal;
-      margin-top: 0;
-    }
+            min-height: 100vh;
+        }
 
-    p {
-      max-width: 900px;
-      margin: 40px auto;
-      font-size: 24px;
-      line-height: 1.7;
-      background: rgba(0,0,0,0.45);
-      padding: 24px;
-      border-radius: 16px;
-    }
+        .container {
+            padding: 40px 20px;
+        }
 
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 22px;
-      margin-top: 70px;
-      padding-bottom: 60px;
-    }
+        .profile-pic {
+            width: 280px;
+            height: 280px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 6px solid white;
+            margin-bottom: 40px;
 
-    .gallery img {
-      width: 280px;
-      height: 380px;
-      object-fit: cover;
-      border-radius: 16px;
-      box-shadow: 0 0 25px rgba(0,0,0,0.7);
-    }
-  </style>
+            box-shadow: 0 0 35px rgba(0,0,0,0.6);
+        }
+
+        h1 {
+            font-size: 90px;
+            margin-bottom: 15px;
+            font-weight: bold;
+
+            text-shadow: 0 0 20px rgba(0,0,0,0.8);
+        }
+
+        h2 {
+            font-size: 55px;
+            color: #d0d0d0;
+            margin-bottom: 50px;
+            font-weight: normal;
+
+            text-shadow: 0 0 15px rgba(0,0,0,0.8);
+        }
+
+        p {
+            max-width: 1100px;
+            margin: auto;
+            font-size: 34px;
+            line-height: 1.7;
+
+            text-shadow: 0 0 15px rgba(0,0,0,0.8);
+        }
+
+        .gallery {
+            margin-top: 90px;
+
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .gallery img {
+            width: 320px;
+            height: 320px;
+            object-fit: cover;
+
+            border-radius: 18px;
+
+            transition: transform 0.3s ease;
+            box-shadow: 0 0 25px rgba(0,0,0,0.5);
+        }
+
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+
+        @media (max-width: 900px) {
+            h1 {
+                font-size: 52px;
+            }
+
+            h2 {
+                font-size: 34px;
+            }
+
+            p {
+                font-size: 22px;
+            }
+
+            .profile-pic {
+                width: 220px;
+                height: 220px;
+            }
+
+            .gallery img {
+                width: 240px;
+                height: 240px;
+            }
+        }
+    </style>
 </head>
 
 <body>
-  <div class="container">
 
-    <img src="./AdamBILD5.jpeg" class="profile">
+    <div class="container">
 
-    <h1>Adam Britts</h1>
+        <!-- FRONT PROFILE PHOTO -->
+        <img src="AdamBILD5.jpeg" alt="Adam Britts" class="profile-pic">
 
-    <h2>Chemical Engineer</h2>
+        <h1>Adam Britts</h1>
 
-    <p>
-      Chemical engineer interested in process engineering,
-      optimization, industrial systems, and technical problem solving.
-    </p>
+        <h2>Chemical Engineer</h2>
 
-    <div class="gallery">
-      <img src="./AdamBILD3.jpeg">
-      <img src="./AdamBond4.png">
-      <img src="./AdamBond5.png">
-      <img src="./AdamLaboratory.jpeg">
+        <p>
+            Chemical engineer interested in process engineering,
+            optimization, industrial systems, and technical problem solving.
+        </p>
+
+        <!-- PHOTO GALLERY -->
+        <div class="gallery">
+            <img src="AdamBILD3.jpeg" alt="">
+            <img src="AdamBond4.png" alt="">
+            <img src="AdamBond5.png" alt="">
+            <img src="AdamLaboratory.jpeg" alt="">
+        </div>
+
     </div>
 
-  </div>
 </body>
 </html>
