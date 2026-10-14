@@ -19,3 +19,5 @@
 /* Six clear destinations under Adam’s Laboratory. */
 @media(min-width:1101px){.topic:nth-child(n){grid-column:span 2}.topic:nth-child(3n){border-right:0}}
 @media(min-width:651px) and (max-width:1100px){.topic:last-child{grid-column:auto}}
+
+.personal-posters{display:grid;grid-template-columns:1fr 150px 210px;gap:24px;align-items:center;padding:32px;border-top:1px solid #303437;color:#9fa8ac}.personal-posters h2{font-size:20px;color:#deded8}.personal-posters p{max-width:420px;font-size:13px}.personal-posters img{display:block;width:100%;max-height:190px;object-fit:contain}.personal-posters a:hover{outline:1px solid #9fe5cc;outline-offset:6px}@media(max-width:650px){.personal-posters{grid-template-columns:1fr 1fr;padding:24px;gap:18px}.personal-posters>div{grid-column:1/-1}.personal-posters img{max-height:150px}}
