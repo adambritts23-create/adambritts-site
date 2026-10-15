@@ -32,6 +32,16 @@ Calculation totals normally use **mol/kg H₂O**. Transfer to Wet Lab uses an ex
 
 For the Windows game preview, download the ZIP from Releases, extract the complete folder, and open `AdamsLaboratory.exe`.
 
+## Pourbaix comparison
+
+Pourbaix maps now show predominant species together with their oxidation states, including mixed-valence solids. The oxidation-state view remains selectable.
+
+Open **Compare two predominance maps** in a calculated Pourbaix result to compare Fe and Cu on the same pH/Eh grid. Select either element to emphasize its labels and boundaries while the other fades. Clicking the map inspects both equilibria at the same coordinates; the beaker remains linked to the original system.
+
+These are independent equilibria, not a mixed-solution calculation or a reaction-spontaneity verdict. The comparison element uses its own element–water system and specified total. Shared ligands, cross-metal solids and coupled reactions require additional modeling.
+
+Acetate preparation now preserves species charges, avoiding false duplicate identities for Fe(III) and Al(III) complexes. Database includes an acetate browsing shortcut and a CDTA literature reference panel; CDTA constants are not active solver data.
+
 ## Scientific approach
 
 - Equilibria use the selected source reactions, component balances and supported phase constraints. Solid amounts follow stoichiometry.
