@@ -91,3 +91,14 @@ Built around an engineer’s curiosity: chemistry, equilibrium, and the bigger p
 ### Walkable laboratory
 
 [Enter the walkable lab](https://adambritts23-create.github.io/adambritts-site/laboratory/?floor=upper), also available beside Calculation and Wet Lab in Chemical Equilibrium. It uses the current shared chemistry tools and includes Adam’s apartment through **Adam’s Home**. Walk with WASD or arrow keys, drag to look, and use **E** at a workstation. The downloadable game remains a separate experience.
+
+
+### Godot browser preview
+
+[Explore the upper laboratory and apartment](https://adambritts23-create.github.io/adambritts-site/walkable-lab/).
+
+The original Godot upper floor connects directly to Adam’s apartment through a corridor. Workstations open the existing chemistry application in an overlay. Desktop controls: WASD to walk, mouse to look, Shift to run, E to interact, and Esc for the menu.
+
+The single-threaded WebGL 2 export lives in `walkable-lab/`. Its first download is approximately 54 MB; initial shader compilation took 30–40 seconds on the test machine, with approximately 30 fps afterward. Browser lighting is simplified. Touch controls are not included in this preview. The lighter walkable view remains available inside Chemical Equilibrium.
+
+Engine: [Godot 4.7.2, MIT license](https://godotengine.org/license/). Laboratory models: [MilkAndBanana / jamesdev](https://milkandbanana.itch.io/lab-assets), CC0. Additional environment models: [Quaternius](https://quaternius.itch.io/modular-sci-fi-megakit), CC0. Environment textures: [Poly Haven](https://polyhaven.com/license), CC0. Architecture, apartment layout and browser integration are adapted from the desktop project. The runtime export is published here; development source is maintained separately.
