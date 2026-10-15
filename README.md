@@ -87,3 +87,7 @@ Open `http://127.0.0.1:8000/adambritts-site/`. Serving from the parent preserves
 ---
 
 Built around an engineer’s curiosity: chemistry, equilibrium, and the bigger process picture.
+
+### Walkable laboratory
+
+[Enter the walkable lab](https://adambritts23-create.github.io/adambritts-site/laboratory/?floor=upper), also available beside Calculation and Wet Lab in Chemical Equilibrium. It uses the current shared chemistry tools and includes Adam’s apartment through **Adam’s Home**. Walk with WASD or arrow keys, drag to look, and use **E** at a workstation. The downloadable game remains a separate experience.
