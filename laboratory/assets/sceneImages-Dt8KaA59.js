@@ -1,0 +1,1 @@
+var e=new Map;function t(t){if(e.has(t))return e.get(t);let n=new Promise((n,r)=>{let i=new Image;i.onload=()=>n(i),i.onerror=()=>{e.delete(t),r(Error(`Scene image unavailable`))},i.src=`/adambritts-site/laboratory/`+t});for(e.set(t,n);e.size>5;)e.delete(e.keys().next().value);return n}export{t};
