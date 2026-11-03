@@ -4,11 +4,11 @@ We need to reduce toxic chromium six to less toxic chromium three. We need a red
 
 A Pourbaix diagram provides our redox map. Unlike chromium six, chromium three forms a highly insoluble hydroxide solid.
 
-Add iron two sulfate. Iron two becomes iron three. Chromium six accepts those electrons and becomes chromium three. Watch the arrow.
+Add iron two sulfate as a reducing agent. Iron two becomes iron three. Chromium six accepts those electrons and becomes chromium three. Watch the arrow.
 
 Add sodium hydroxide until chromium hydroxide precipitation reaches its maximum in this model. Watch the pH move across the map.
 
-Replay with solubility curves. Chromium three is highlighted, using an oxide equilibrium reference. Iron three and excess iron two are shown too.
+Replay with solubility curves. Chromium three is highlighted. Iron three and excess iron two are shown too.
 
 The solids can settle, then be filtered out of the process stream. Collect the mixed hydroxides, and verify the treated water before discharge.
 
