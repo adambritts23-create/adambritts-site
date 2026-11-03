@@ -1,4 +1,4 @@
-In front of you is silver nitrate solution, containing thirty grams of silver. You cannot see it: the silver is dissolved as ions. That is quite a lot of money. So, how do we get it back?
+In front of you is a solution of silver nitrate. It contains thirty grams of silver. You cannot see it: the silver is dissolved as ions. That is quite a lot of money. So, how do we get it back?
 
 Table salt provides chloride. Add it, and the equilibrium shifts right. Silver chloride forms a solid. The silver was here all along.
 
@@ -8,10 +8,12 @@ Back to our original solution. This Pourbaix diagram shows pH across and potenti
 
 Silver ions above this line. Silver metal below. But a dot supplies no electrons. We need a donor.
 
-Copper’s boundary lies lower. Add copper powder. Copper gives up electrons, and silver ions become silver metal.
+Copper’s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: copper dissolves, leaving fine silver dust and chunks.
 
-Now we have fine silver dust and chunks, and copper ions in solution. Could we collect silver directly on an electrode instead?
+A spontaneous reaction has free energy available to do electrical work. Instead of mixing everything, separate the reactions. Send the electrons through a wire.
 
-Take a fresh silver solution. Beside it, copper ions and a copper electrode. Connect a salt bridge and wire. Copper dissolves; silver plates onto our silver electrode.
+Take a fresh silver solution. Beside it, copper ions and a copper electrode. Connect a salt bridge and wire. Copper dissolves. Silver plates onto the other electrode.
 
-Platinum can support silver plating too. The silver couple’s equilibrium potential stays the same. Starting deposition on platinum may need extra overpotential. Same chemistry, different surface. Bergslagen Chemicals.
+If you already have a chunk of silver lying around, make it bigger by plating the silver in our solution onto it. Same reaction, now working for you.
+
+To explore this chemical software, or for consultation on process chemistry, contact Bergslagen Chemicals.
