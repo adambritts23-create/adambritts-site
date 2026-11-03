@@ -1,0 +1,13 @@
+This clear beaker contains thirty grams of silver. You cannot see it, because the silver is dissolved as ions. So, how do we get it back?
+
+Add chloride, and watch. Silver chloride forms a solid. The silver was here all along. Chemical equilibrium tells us how much stays dissolved.
+
+But silver chloride is not exactly something you take to the pawn shop. We want metallic silver. Oxidation state zero.
+
+Return to our original silver solution. Now pull back. This is a Pourbaix diagram: pH across, electric potential up. Higher means more oxidizing conditions.
+
+Up here, silver ions stay dissolved. Move below the boundary, and metallic silver is stable. The beaker follows the calculated equilibrium. But moving a dot supplies no electrons.
+
+Copper can. Its metal to ion boundary lies below silver’s. Copper gives up electrons; silver ions accept them. Watch copper powder enter, and silver metal form.
+
+Copper dissolves. Silver becomes a collectable metal. These animations show the change, not its speed. Understand equilibrium, and invisible chemistry becomes something you can predict. Try the interactive lesson at Bergslagen Chemisol.
