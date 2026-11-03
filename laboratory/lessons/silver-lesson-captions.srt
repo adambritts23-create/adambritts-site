@@ -1,0 +1,483 @@
+1
+00:00:00,445 --> 00:00:02,415
+Here we have a beaker.
+
+2
+00:00:02,415 --> 00:00:03,597
+Some clear liquid.
+
+3
+00:00:03,597 --> 00:00:06,355
+A magnetic stirrer going round and round.
+
+4
+00:00:06,355 --> 00:00:07,537
+Nothing particularly exciting.
+
+5
+00:00:07,537 --> 00:00:10,689
+Except this solution contains thirty grams of silver.
+
+6
+00:00:10,689 --> 00:00:15,023
+You cannot see it because the silver is dissolved as ions.
+
+7
+00:00:15,023 --> 00:00:16,599
+But it is there.
+
+8
+00:00:16,599 --> 00:00:19,357
+And I would quite like it back.
+
+9
+00:00:20,441 --> 00:00:24,219
+We are working with a virtual silver nitrate solution.
+
+10
+00:00:24,219 --> 00:00:27,997
+Thirty grams of silver, in one kilogram of water.
+
+11
+00:00:27,997 --> 00:00:32,195
+What could turn those dissolved silver ions into a solid?
+
+12
+00:00:32,195 --> 00:00:36,812
+We could add water, add sodium chloride, or simply stir faster.
+
+13
+00:00:36,812 --> 00:00:38,072
+Take your pick.
+
+14
+00:00:38,072 --> 00:00:42,689
+The stirrer is enthusiastic, but enthusiasm is not a separation method.
+
+15
+00:00:43,938 --> 00:00:46,215
+Let us add sodium chloride.
+
+16
+00:00:46,215 --> 00:00:48,492
+Ordinary salt, dissolved in water.
+
+17
+00:00:48,492 --> 00:00:50,769
+Watch the white cloud form.
+
+18
+00:00:50,769 --> 00:00:54,868
+Silver ions meet chloride ions, and silver chloride appears.
+
+19
+00:00:54,868 --> 00:00:57,145
+The silver has not vanished.
+
+20
+00:00:57,145 --> 00:01:02,610
+We have changed where it resides: from dissolved species into a solid.
+
+21
+00:01:04,012 --> 00:01:06,000
+So what actually happened?
+
+22
+00:01:06,000 --> 00:01:12,956
+Silver chloride can dissolve, and silver and chloride ions can form silver chloride again.
+
+23
+00:01:12,956 --> 00:01:15,938
+At equilibrium, these opposing processes balance.
+
+24
+00:01:15,938 --> 00:01:21,901
+When their ion activity product exceeds the solubility product, precipitation is favored.
+
+25
+00:01:21,901 --> 00:01:25,876
+The solution adjusts until that condition is satisfied.
+
+26
+00:01:27,195 --> 00:01:30,409
+This curve is calculated from the equilibrium database.
+
+27
+00:01:30,409 --> 00:01:34,024
+The horizontal axis shows how much chloride we add.
+
+28
+00:01:34,024 --> 00:01:37,639
+The vertical axis shows how much silver remains dissolved.
+
+29
+00:01:37,639 --> 00:01:42,058
+Notice the sharp fall near one chloride ion per silver ion.
+
+30
+00:01:42,058 --> 00:01:43,665
+The last traces matter.
+
+31
+00:01:43,665 --> 00:01:46,879
+A clear liquid is not a chemical analysis.
+
+32
+00:01:46,879 --> 00:01:51,699
+Move the dose to recover at least ninety nine point nine percent.
+
+33
+00:01:53,056 --> 00:01:56,137
+Now we separate the solid from the liquid.
+
+34
+00:01:56,137 --> 00:01:58,447
+The white material is silver chloride.
+
+35
+00:01:58,447 --> 00:02:06,148
+It contains our silver, but it also contains chlorine, so the solid weighs more than the silver we started with.
+
+36
+00:02:06,148 --> 00:02:07,688
+Filtration collects the precipitate.
+
+37
+00:02:07,688 --> 00:02:10,768
+It does not turn it into a metal.
+
+38
+00:02:12,029 --> 00:02:17,808
+But hey, silver chloride is not exactly something you bring to the pawn shop.
+
+39
+00:02:17,808 --> 00:02:21,111
+It is much better to bring metallic silver.
+
+40
+00:02:21,111 --> 00:02:23,175
+You know: oxidation state zero.
+
+41
+00:02:23,175 --> 00:02:25,651
+So we need more than precipitation.
+
+42
+00:02:25,651 --> 00:02:26,890
+We need reduction.
+
+43
+00:02:26,890 --> 00:02:28,541
+Silver must gain electrons.
+
+44
+00:02:29,768 --> 00:02:35,196
+Let us rewind our virtual experiment to the original silver nitrate solution.
+
+45
+00:02:35,196 --> 00:02:39,266
+The white chloride precipitate belongs to our first route.
+
+46
+00:02:39,266 --> 00:02:44,694
+For this second route, we deliberately use a chloride free starting solution.
+
+47
+00:02:44,694 --> 00:02:47,860
+That distinction matters: chloride changes the equilibria.
+
+48
+00:02:47,860 --> 00:02:53,288
+We are comparing two recovery methods, not making the chloride mysteriously disappear.
+
+49
+00:02:54,743 --> 00:03:00,941
+This is a Pourbaix diagram: a map of equilibrium phases and dissolved species.
+
+50
+00:03:00,941 --> 00:03:03,325
+Left to right is pH.
+
+51
+00:03:03,325 --> 00:03:09,046
+Up and down is electrode potential, measured against the standard hydrogen electrode.
+
+52
+00:03:09,046 --> 00:03:12,383
+Moving upward generally favors more oxidized states.
+
+53
+00:03:12,383 --> 00:03:14,767
+Moving downward favors reduced states.
+
+54
+00:03:14,767 --> 00:03:19,535
+The dashed lines mark the equilibrium stability limits of water.
+
+55
+00:03:20,743 --> 00:03:24,734
+At our starting point, silver is dissolved as silver ions.
+
+56
+00:03:24,734 --> 00:03:26,729
+Watch the marker move down.
+
+57
+00:03:26,729 --> 00:03:30,720
+Cross into the metallic silver region, and the beaker changes.
+
+58
+00:03:30,720 --> 00:03:33,514
+Move upward again, and the metal dissolves.
+
+59
+00:03:33,514 --> 00:03:35,909
+This is an imposed potential demonstration.
+
+60
+00:03:35,909 --> 00:03:38,702
+Clicking the map supplies no real reagent.
+
+61
+00:03:38,702 --> 00:03:45,487
+In game mode, find a point where at least ninety nine percent of the silver is metallic.
+
+62
+00:03:46,802 --> 00:03:48,127
+Now move sideways.
+
+63
+00:03:48,127 --> 00:03:52,100
+At sufficiently alkaline conditions, silver oxide can become stable.
+
+64
+00:03:52,100 --> 00:03:56,074
+That is a different solid, and a different route.
+
+65
+00:03:56,074 --> 00:04:00,489
+A pH change is not the same as adding electrons.
+
+66
+00:04:00,489 --> 00:04:04,021
+The diagram helps us tell these changes apart.
+
+67
+00:04:04,021 --> 00:04:10,202
+Its boundaries depend on the total concentration and the species included in the calculation.
+
+68
+00:04:11,565 --> 00:04:12,919
+Now compare copper.
+
+69
+00:04:12,919 --> 00:04:20,591
+These two reference lines show the metal and dissolved ion couples at explicitly stated free ion activities.
+
+70
+00:04:20,591 --> 00:04:23,299
+Copper has the lower reduction potential.
+
+71
+00:04:23,299 --> 00:04:28,714
+Between the lines, silver reduction and copper oxidation can be favorable together.
+
+72
+00:04:28,714 --> 00:04:31,873
+The vertical separation suggests a redox pair.
+
+73
+00:04:31,873 --> 00:04:36,837
+It is a thermodynamic clue, not a prediction of reaction speed.
+
+74
+00:04:38,059 --> 00:04:40,117
+We need an electron donor.
+
+75
+00:04:40,117 --> 00:04:44,232
+Would you choose copper metal, sodium chloride, or silver metal?
+
+76
+00:04:44,232 --> 00:04:47,524
+Copper can lose electrons as it enters solution.
+
+77
+00:04:47,524 --> 00:04:51,638
+Silver ions can accept those electrons and become silver metal.
+
+78
+00:04:51,638 --> 00:04:57,811
+We do not need an external power supply for this pair under the selected conditions.
+
+79
+00:04:59,119 --> 00:05:03,089
+In goes a measured portion of brownish copper powder.
+
+80
+00:05:03,089 --> 00:05:06,617
+At the copper surface, copper atoms release electrons.
+
+81
+00:05:06,617 --> 00:05:10,586
+Silver ions take them up, and metallic silver forms.
+
+82
+00:05:10,586 --> 00:05:14,115
+The liquid becomes blue as copper ions accumulate.
+
+83
+00:05:14,115 --> 00:05:17,202
+We are speeding up the visual sequence.
+
+84
+00:05:17,202 --> 00:05:22,495
+This animation illustrates the transformation; it is not a calculated reaction rate.
+
+85
+00:05:23,972 --> 00:05:29,127
+One copper atom becomes a copper two plus ion and releases two electrons.
+
+86
+00:05:29,127 --> 00:05:31,903
+Two silver ions each accept one electron.
+
+87
+00:05:31,903 --> 00:05:35,076
+Add the half reactions, and the electrons cancel.
+
+88
+00:05:35,076 --> 00:05:40,231
+That is why one mole of copper can recover two moles of silver.
+
+89
+00:05:40,231 --> 00:05:48,956
+Our thirty grams of silver correspond to about eight point eight four grams of copper consumed in this ideal two couple model.
+
+90
+00:05:50,233 --> 00:05:52,468
+There is our metallic silver.
+
+91
+00:05:52,468 --> 00:05:53,362
+Collect it.
+
+92
+00:05:53,362 --> 00:06:01,853
+The ideal model predicts nearly thirty grams, but a real product still needs separation, washing, and a purity check.
+
+93
+00:06:01,853 --> 00:06:04,982
+Excess copper could contaminate the recovered material.
+
+94
+00:06:04,982 --> 00:06:10,345
+A favorable reaction does not automatically produce a pawn shop ready product.
+
+95
+00:06:14,508 --> 00:06:17,476
+Now separate the reactions into two beakers.
+
+96
+00:06:17,476 --> 00:06:22,988
+This new demonstration uses zero point zero one molal copper and silver solutions.
+
+97
+00:06:22,988 --> 00:06:25,108
+Copper oxidizes at the anode.
+
+98
+00:06:25,108 --> 00:06:28,924
+Electrons travel through the wire to the silver cathode.
+
+99
+00:06:28,924 --> 00:06:32,740
+The salt bridge carries ions to maintain charge balance.
+
+100
+00:06:32,740 --> 00:06:36,132
+The voltmeter uses the calculated free ion activities.
+
+101
+00:06:36,132 --> 00:06:39,100
+The chemistry has not changed its logic.
+
+102
+00:06:39,100 --> 00:06:42,492
+We have given the electrons an external path.
+
+103
+00:06:41,086 --> 00:06:45,066
+Open the circuit and the external electron flow stops.
+
+104
+00:06:45,066 --> 00:06:48,162
+Close it and the spontaneous direction returns.
+
+105
+00:06:48,162 --> 00:06:56,122
+An opposing power supply can reverse the selected reaction if its voltage is sufficient in this ideal model.
+
+106
+00:06:56,122 --> 00:07:00,102
+Real cells also have resistance, overpotentials, and competing reactions.
+
+107
+00:07:00,102 --> 00:07:08,062
+In game mode, this is the actual solution bench: try the circuit controls and inspect the Nernst calculation.
+
+108
+00:07:10,390 --> 00:07:11,270
+Two routes.
+
+109
+00:07:11,270 --> 00:07:14,790
+The first changed solubility and collected silver chloride.
+
+110
+00:07:14,790 --> 00:07:18,750
+The second changed oxidation state and produced silver metal.
+
+111
+00:07:18,750 --> 00:07:20,950
+The beaker was never empty.
+
+112
+00:07:20,950 --> 00:07:25,350
+We just learned how to make its contents reveal themselves.
+
+113
+00:07:25,350 --> 00:07:27,990
+The answer lies in chemical equilibrium.
+
+114
+00:07:27,990 --> 00:07:32,830
+And the person who understands it becomes very difficult to surprise.
+
+115
+00:07:33,128 --> 00:07:34,994
+Try the lesson yourself.
+
+116
+00:07:34,994 --> 00:07:36,859
+Change the chloride dose.
+
+117
+00:07:36,859 --> 00:07:38,725
+Explore the silver diagram.
+
+118
+00:07:38,725 --> 00:07:40,590
+Compare copper and silver.
+
+119
+00:07:40,590 --> 00:07:46,187
+Then ask the next question: what happens when other metals are present?
+
+120
+00:07:46,187 --> 00:07:48,518
+That is where selectivity begins.
+
+121
+00:07:48,518 --> 00:07:50,384
+Welcome to Bergslagen Chemisol.

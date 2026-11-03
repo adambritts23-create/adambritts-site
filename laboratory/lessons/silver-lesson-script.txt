@@ -1,0 +1,99 @@
+1. 01 / Hidden value — An ordinary beaker?
+Visual: clear
+
+Here we have a beaker. Some clear liquid. A magnetic stirrer going round and round. Nothing particularly exciting. Except this solution contains thirty grams of silver. You cannot see it because the silver is dissolved as ions. But it is there. And I would quite like it back.
+
+2. 01 / Hidden value — Make the invisible collectable
+Visual: clear / Game task: salt
+
+We are working with a virtual silver nitrate solution. Thirty grams of silver, in one kilogram of water. What could turn those dissolved silver ions into a solid? We could add water, add sodium chloride, or simply stir faster. Take your pick. The stirrer is enthusiastic, but enthusiasm is not a separation method.
+
+3. 02 / The white cloud — A cloud of silver chloride
+Visual: precipitate
+
+Let us add sodium chloride. Ordinary salt, dissolved in water. Watch the white cloud form. Silver ions meet chloride ions, and silver chloride appears. The silver has not vanished. We have changed where it resides: from dissolved species into a solid.
+
+4. 02 / The white cloud — A competition, not a disappearance
+Visual: solubility
+
+So what actually happened? Silver chloride can dissolve, and silver and chloride ions can form silver chloride again. At equilibrium, these opposing processes balance. When their ion activity product exceeds the solubility product, precipitation is favored. The solution adjusts until that condition is satisfied.
+
+5. 02 / The white cloud — How much is left behind?
+Visual: solubility / Game task: dose
+
+This curve is calculated from the equilibrium database. The horizontal axis shows how much chloride we add. The vertical axis shows how much silver remains dissolved. Notice the sharp fall near one chloride ion per silver ion. The last traces matter. A clear liquid is not a chemical analysis. Move the dose to recover at least ninety nine point nine percent.
+
+6. 02 / The white cloud — Collect the solid
+Visual: filter
+
+Now we separate the solid from the liquid. The white material is silver chloride. It contains our silver, but it also contains chlorine, so the solid weighs more than the silver we started with. Filtration collects the precipitate. It does not turn it into a metal.
+
+7. 03 / Give silver an electron — The pawn-shop problem
+Visual: filter
+
+But hey, silver chloride is not exactly something you bring to the pawn shop. It is much better to bring metallic silver. You know: oxidation state zero. So we need more than precipitation. We need reduction. Silver must gain electrons.
+
+8. 03 / Give silver an electron — A second route — original solution restored
+Visual: clear
+
+Let us rewind our virtual experiment to the original silver nitrate solution. The white chloride precipitate belongs to our first route. For this second route, we deliberately use a chloride free starting solution. That distinction matters: chloride changes the equilibria. We are comparing two recovery methods, not making the chloride mysteriously disappear.
+
+9. 03 / Give silver an electron — Meet the Pourbaix diagram
+Visual: map
+
+This is a Pourbaix diagram: a map of equilibrium phases and dissolved species. Left to right is pH. Up and down is electrode potential, measured against the standard hydrogen electrode. Moving upward generally favors more oxidized states. Moving downward favors reduced states. The dashed lines mark the equilibrium stability limits of water.
+
+10. 03 / Give silver an electron — Find metallic silver
+Visual: map / Game task: metal
+
+At our starting point, silver is dissolved as silver ions. Watch the marker move down. Cross into the metallic silver region, and the beaker changes. Move upward again, and the metal dissolves. This is an imposed potential demonstration. Clicking the map supplies no real reagent. In game mode, find a point where at least ninety nine percent of the silver is metallic.
+
+11. 03 / Give silver an electron — pH changes the map too
+Visual: mapPh
+
+Now move sideways. At sufficiently alkaline conditions, silver oxide can become stable. That is a different solid, and a different route. A pH change is not the same as adding electrons. The diagram helps us tell these changes apart. Its boundaries depend on the total concentration and the species included in the calculation.
+
+12. 04 / An electron donor — Copper enters the picture
+Visual: overlay
+
+Now compare copper. These two reference lines show the metal and dissolved ion couples at explicitly stated free ion activities. Copper has the lower reduction potential. Between the lines, silver reduction and copper oxidation can be favorable together. The vertical separation suggests a redox pair. It is a thermodynamic clue, not a prediction of reaction speed.
+
+13. 04 / An electron donor — Who supplies the electrons?
+Visual: overlay / Game task: copper
+
+We need an electron donor. Would you choose copper metal, sodium chloride, or silver metal? Copper can lose electrons as it enters solution. Silver ions can accept those electrons and become silver metal. We do not need an external power supply for this pair under the selected conditions.
+
+14. 04 / An electron donor — Copper in. Silver out.
+Visual: copper
+
+In goes a measured portion of brownish copper powder. At the copper surface, copper atoms release electrons. Silver ions take them up, and metallic silver forms. The liquid becomes blue as copper ions accumulate. We are speeding up the visual sequence. This animation illustrates the transformation; it is not a calculated reaction rate.
+
+15. 04 / An electron donor — Two electrons. Two silver atoms.
+Visual: reaction
+
+One copper atom becomes a copper two plus ion and releases two electrons. Two silver ions each accept one electron. Add the half reactions, and the electrons cancel. That is why one mole of copper can recover two moles of silver. Our thirty grams of silver correspond to about eight point eight four grams of copper consumed in this ideal two couple model.
+
+16. 05 / From prediction to recovery — Collect the metal
+Visual: metal / Game task: collect
+
+There is our metallic silver. Collect it. The ideal model predicts nearly thirty grams, but a real product still needs separation, washing, and a purity check. Excess copper could contaminate the recovered material. A favorable reaction does not automatically produce a pawn shop ready product.
+
+17. 05 / Turn the reaction into a cell — Same chemistry. A wire between the reactions.
+Visual: cell
+
+Now separate the reactions into two beakers. This new demonstration uses zero point zero one molal copper and silver solutions. Copper oxidizes at the anode. Electrons travel through the wire to the silver cathode. The salt bridge carries ions to maintain charge balance. The voltmeter uses the calculated free ion activities. The chemistry has not changed its logic. We have given the electrons an external path.
+
+18. 05 / Turn the reaction into a cell — Let the electrons do work
+Visual: cell
+
+Open the circuit and the external electron flow stops. Close it and the spontaneous direction returns. An opposing power supply can reverse the selected reaction if its voltage is sufficient in this ideal model. Real cells also have resistance, overpotentials, and competing reactions. In game mode, this is the actual solution bench: try the circuit controls and inspect the Nernst calculation.
+
+19. 05 / From prediction to recovery — You did not make silver. You moved it.
+Visual: finish
+
+Two routes. The first changed solubility and collected silver chloride. The second changed oxidation state and produced silver metal. The beaker was never empty. We just learned how to make its contents reveal themselves. The answer lies in chemical equilibrium. And the person who understands it becomes very difficult to surprise.
+
+20. Bergslagen Chemisol / Lesson 01 — What would you recover next?
+Visual: finish
+
+Try the lesson yourself. Change the chloride dose. Explore the silver diagram. Compare copper and silver. Then ask the next question: what happens when other metals are present? That is where selectivity begins. Welcome to Bergslagen Chemisol.
