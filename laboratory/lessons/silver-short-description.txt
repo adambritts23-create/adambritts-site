@@ -1,4 +1,4 @@
-Bergslagen Chemicals — There is money in this beaker.
+Bergslagen Chemical Technology Corporation — There is money in this beaker.
 Play the interactive lesson: https://adambritts23-create.github.io/adambritts-site/silver-lesson/
 
 Source-based equilibrium diagrams. Animations are illustrative, not calculated reaction rates. Chloride precipitation, copper cementation and the fresh-solution plating cell are separate examples. The cell assumes ideal free-ion activities of 0.010 for Cu2+ and Ag+ at 25 C; no kinetic overpotential is calculated. A copper anode supplies electrons for silver deposition on a silver cathode. The two half-cell Pourbaix diagrams are calculated at their stated total concentrations.
