@@ -1,7 +1,7 @@
-Thirty grams of silver. Hidden in plain sight.
+Bergslagen Chemicals — There is money in this beaker.
 Play the interactive lesson: https://adambritts23-create.github.io/adambritts-site/silver-lesson/
 
-Source-based equilibrium diagrams. Animations are illustrative, not calculated reaction rates. Chloride precipitation and copper cementation are separate examples.
+Source-based equilibrium diagrams. Animations are illustrative, not calculated reaction rates. Chloride precipitation, copper cementation and the fresh-solution plating cell are separate examples. The cell assumes ideal free-ion activities of 0.010 for Cu2+ and Ag+ at 25 C; no kinetic overpotential is calculated. Platinum supports silver deposition but does not change the Ag+/Ag equilibrium potential after a silver phase is established.
 
 Music: Darkest Child var A by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100784

@@ -1,13 +1,17 @@
-This clear beaker contains thirty grams of silver. You cannot see it, because the silver is dissolved as ions. So, how do we get it back?
+In front of you is silver nitrate solution, containing thirty grams of silver. You cannot see it: the silver is dissolved as ions. That is quite a lot of money. So, how do we get it back?
 
-Add chloride, and watch. Silver chloride forms a solid. The silver was here all along. Chemical equilibrium tells us how much stays dissolved.
+Table salt provides chloride. Add it, and the equilibrium shifts right. Silver chloride forms a solid. The silver was here all along.
 
-But silver chloride is not exactly something you take to the pawn shop. We want metallic silver. Oxidation state zero.
+But silver chloride is not something you take to the pawn shop. We want silver metal. Oxidation state zero.
 
-Return to our original silver solution. Now pull back. This is a Pourbaix diagram: pH across, electric potential up. Higher means more oxidizing conditions.
+Back to our original solution. This Pourbaix diagram shows pH across and potential up. Higher means more oxidizing.
 
-Up here, silver ions stay dissolved. Move below the boundary, and metallic silver is stable. The beaker follows the calculated equilibrium. But moving a dot supplies no electrons.
+Silver ions above this line. Silver metal below. But a dot supplies no electrons. We need a donor.
 
-Copper can. Its metal to ion boundary lies below silver’s. Copper gives up electrons; silver ions accept them. Watch copper powder enter, and silver metal form.
+Copper’s boundary lies lower. Add copper powder. Copper gives up electrons, and silver ions become silver metal.
 
-Copper dissolves. Silver becomes a collectable metal. These animations show the change, not its speed. Understand equilibrium, and invisible chemistry becomes something you can predict. Try the interactive lesson at Bergslagen Chemisol.
+Now we have fine silver dust and chunks, and copper ions in solution. Could we collect silver directly on an electrode instead?
+
+Take a fresh silver solution. Beside it, copper ions and a copper electrode. Connect a salt bridge and wire. Copper dissolves; silver plates onto our silver electrode.
+
+Platinum can support silver plating too. The silver couple’s equilibrium potential stays the same. Starting deposition on platinum may need extra overpotential. Same chemistry, different surface. Bergslagen Chemicals.
