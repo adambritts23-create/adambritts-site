@@ -6,3 +6,5 @@ Source-based equilibrium diagrams. Animations are illustrative, not calculated r
 Music: Darkest Child var A by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100784
 Music looped, mixed and faded. Narration: Kokoro.
+
+The directional arrows and lamp brightness illustrate reaction direction and electrical work, not calculated current or light output.

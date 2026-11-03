@@ -1,0 +1,15 @@
+Bergslagen Chemicals — Chromium rescue.
+Explore the chemistry software: https://adambritts23-create.github.io/adambritts-site/laboratory/
+Factory drama: https://adambritts23-create.github.io/adambritts-site/laboratory/?area=game&mode=night-shift
+
+Source-based chromium/iron equilibrium records and calcium-removal example from the factory task. First reduce Cr(VI) with Fe(II), then collect mixed Cr(III)/Fe(III) hydroxides. Calcium carbonate is a separate filtered teaching-mixture calculation, not a full process mass-balance continuation. Baking soda supplies carbonate inventory; pH is separately adjusted. Treat and verify wastewater against plant conditions before discharge.
+
+The separate platinum half-cells illustrate Fe(II) oxidation coupled to Cr(VI) reduction, not chromium metal plating. At pH 2, a representative balanced cathode reaction is HCrO4- + 7H+ + 3e- -> Cr3+ + 4H2O; the anode is Fe2+ -> Fe3+ + e-. Equal nominal solvent inventories; 0.032 mol/kg total Fe and 0.010 mol/kg total Cr, initially 99% Fe(II) and 99% Cr(VI). The initial ideal EMF is calculated from the source speciation model, with finite minority redox inventories. Both cells use Pt and a spectator-ion bridge. Ideal activities, 25 C, fresh amorphous hydroxides; sulfate complexation and kinetics omitted as in the factory model. Arrows, colour changes, electrons, and lamp brightness are teaching illustrations, not calculated currents, rates, or light output. The Pt setup is a thermodynamic illustration, not a validated industrial treatment design.
+
+Background reading:
+EPA iron and steel development document, chromium reduction followed by precipitation: https://www.epa.gov/sites/default/files/2015-10/documents/ironsteel_dd_2002.pdf
+Health Canada chromium treatment discussion: https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-chromium/page-5-guidelines-canadian-drinking-water-quality-guideline-technical-document-chromium.html
+
+Music: Darkest Child var A by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100784
+Music looped, mixed and faded. Narration: Kokoro.

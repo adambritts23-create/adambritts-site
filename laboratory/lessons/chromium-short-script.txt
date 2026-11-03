@@ -1,0 +1,19 @@
+This beaker contains a sample of a process stream from a chemical processing plant. It may look innocent, but it can be deadly. It contains high levels of hexavalent chromium.
+
+The wastewater cannot leave the plant like this. First, change the oxidation state. Then separate the chromium from the water.
+
+A Pourbaix diagram provides our redox map of the system. We want chromium three, which we can precipitate as a hydroxide.
+
+Add iron two sulfate. Iron two becomes iron three. Chromium six accepts those electrons and becomes chromium three. Watch the arrow.
+
+Add sodium hydroxide and raise the pH. Green chromium hydroxide and rusty iron hydroxide precipitate together. Filter out these mixed solids.
+
+Calcium remains in the filtrate. When it meets carbonate-rich water downstream, it could form scale and block valves. Let us collect it here.
+
+Baking soda supplies carbonate. With the pH adjusted, white calcium carbonate precipitates. Filter again, and verify the treated water before discharge.
+
+Alternatively, keep the iron and chromium solutions in separate beakers. Platinum electrodes and a salt bridge let electrons travel through a wire.
+
+Iron two is oxidized at the anode. Chromium six is reduced at the cathode. This illustrates the redox route; the chromium still needs precipitation and collection.
+
+To explore this chemical software, or for consultation on process chemistry, contact Bergslagen Chemicals.
