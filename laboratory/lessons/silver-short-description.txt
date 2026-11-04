@@ -3,6 +3,6 @@ Play the interactive lesson: https://adambritts23-create.github.io/adambritts-si
 
 Source-based equilibrium diagrams. Animations are illustrative, not calculated reaction rates. Chloride precipitation, copper cementation and the fresh-solution plating cell are separate examples. The cell assumes ideal free-ion activities of 0.010 for Cu2+ and Ag+ at 25 C; no kinetic overpotential is calculated. A copper anode supplies electrons for silver deposition on a silver cathode. The two half-cell Pourbaix diagrams are calculated at their stated total concentrations.
 
-Music: pianooboe.mp3, supplied by Adam. Passage 3:45.15–6:09.05; modest level reduction beneath narration, original tempo and dynamics retained. Narration: Kokoro.
+Music: Lieder ohne Worte (Songs without Words), Op. 38 No. 6, Duetto in A-flat; recording supplied by Adam. Quiet background mix at 40% original gain, original tempo retained; fade from 2:15 to silence at 2:23.5. Narration: Kokoro.
 
 The directional arrows and lamp brightness illustrate reaction direction and electrical work, not calculated current or light output.

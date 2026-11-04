@@ -6,7 +6,7 @@ We would prefer pure metallic silver, not a silver salt precipitate. Silver meta
 
 Back to our original solution. A Pourbaix diagram provides our redox map of the system.
 
-Silver ions above this line. Silver metal below. But a dot supplies no electrons. We need a donor.
+Silver ions above this line. Silver metal below. But simply assigning a reduction potential on a diagram does not make a reaction happen in real life. We need a reagent that supplies electrons to bring about a redox reaction.
 
 Copper’s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: silver ions snatch electrons from copper and become metallic silver, forming fine dust and chunks.
 
