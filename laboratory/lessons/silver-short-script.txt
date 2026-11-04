@@ -8,7 +8,7 @@ Back to our original solution. A Pourbaix diagram provides our redox map of the 
 
 Silver ions above this line. Silver metal below. But a dot supplies no electrons. We need a donor.
 
-Copperâ€™s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: silver ions snatch electrons from copper and become metallic silver, forming fine dust and chunks.
+Copper’s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: silver ions snatch electrons from copper and become metallic silver, forming fine dust and chunks.
 
 A spontaneous reaction has free energy available to do electrical work. Instead of mixing everything, separate the reactions. Send the electrons through a wire.
 
@@ -16,4 +16,4 @@ Take a fresh silver solution. Beside it, copper ions and a copper electrode. Con
 
 If you already have a chunk of silver lying around, make it bigger by plating the silver in our solution onto it. Same reaction, now working for you.
 
-If you want to explore this software further, or if you have questions about process chemistry, contact Bergslagen Chemical Technology Corporation.
+Would you like to explore our chemical equilibrium software? Would you like to model your chemical processes? For more information, contact Bergslagen Chemical Systems Corporation. Be part of the AI revolution. Turn process data and chemical knowledge into a digital twin of your plant. Explore changes before making them on site. Bergslagen Chemical Systems is here to help.

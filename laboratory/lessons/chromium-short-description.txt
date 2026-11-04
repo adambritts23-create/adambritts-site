@@ -1,4 +1,4 @@
-Bergslagen Chemical Technology Corporation — Chromium rescue.
+Bergslagen Chemical Systems Corporation — Chromium rescue.
 Explore the chemistry software: https://adambritts23-create.github.io/adambritts-site/laboratory/
 Factory drama: https://adambritts23-create.github.io/adambritts-site/laboratory/?area=game&mode=night-shift
 
@@ -10,4 +10,4 @@ Background reading:
 EPA iron and steel development document, chromium reduction followed by precipitation: https://www.epa.gov/sites/default/files/2015-10/documents/ironsteel_dd_2002.pdf
 Health Canada chromium treatment discussion: https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-chromium/page-5-guidelines-canadian-drinking-water-quality-guideline-technical-document-chromium.html
 
-Music: Piano.mp3, supplied by Adam; mixed beneath narration and faded. Narration: Kokoro.
+Music: Piano.mp3, supplied by Adam; mixed beneath narration with a modest level reduction and ending fade. Narration: Kokoro.

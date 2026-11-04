@@ -16,4 +16,4 @@ Alternatively, keep the iron and chromium solutions in separate beakers. Platinu
 
 Iron two is oxidized at the anode. Chromium six is reduced at the cathode. This illustrates the redox route; the chromium still needs precipitation and collection.
 
-If you want to explore this software further, or if you have questions about process chemistry, contact Bergslagen Chemical Technology Corporation.
+Would you like to explore our chemical equilibrium software? Would you like to model your chemical processes? For more information, contact Bergslagen Chemical Systems Corporation.
