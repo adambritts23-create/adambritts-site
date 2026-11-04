@@ -8,7 +8,7 @@ Back to our original solution. A Pourbaix diagram provides our redox map of the 
 
 Silver ions above this line. Silver metal below. But a dot supplies no electrons. We need a donor.
 
-Copper’s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: silver ions snatch electrons from copper and become metallic silver, forming fine dust and chunks.
+Copperâ€™s boundary lies lower. Copper reacts spontaneously with silver ions. Add copper powder: silver ions snatch electrons from copper and become metallic silver, forming fine dust and chunks.
 
 A spontaneous reaction has free energy available to do electrical work. Instead of mixing everything, separate the reactions. Send the electrons through a wire.
 
