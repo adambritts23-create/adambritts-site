@@ -2,7 +2,7 @@ This beaker contains a sample of a process stream from a chemical processing pla
 
 We need to reduce toxic chromium six to less toxic chromium three. We need a reducing agent: a compound we can snatch electrons from.
 
-A Pourbaix diagram provides our redox map. Unlike chromium six, chromium three forms a highly insoluble hydroxide solid.
+A Pourbaix diagram provides our redox map. Unlike chromium six, chromium three forms a highly insoluble hydroxide solid. But we are up here: an acidic, strongly oxidizing solution containing toxic chromium six.
 
 Add iron two sulfate as a reducing agent. Iron two becomes iron three. Chromium six accepts those electrons and becomes chromium three. Watch the arrow.
 
