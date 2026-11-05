@@ -21,3 +21,5 @@
 @media(min-width:651px) and (max-width:1100px){.topic:last-child{grid-column:auto}}
 
 .personal-posters{display:grid;grid-template-columns:1fr 150px 210px;gap:24px;align-items:center;padding:32px;border-top:1px solid #303437;color:#9fa8ac}.personal-posters h2{font-size:20px;color:#deded8}.personal-posters p{max-width:420px;font-size:13px}.personal-posters img{display:block;width:100%;max-height:190px;object-fit:contain}.personal-posters a:hover{outline:1px solid #9fe5cc;outline-offset:6px}@media(max-width:650px){.personal-posters{grid-template-columns:1fr 1fr;padding:24px;gap:18px}.personal-posters>div{grid-column:1/-1}.personal-posters img{max-height:150px}}
+
+#videos{padding:clamp(20px,4vw,56px);border-block:1px solid #394246;scroll-margin-top:70px}#videos h2{margin:0 0 1rem}.home-films{display:flex;justify-content:center;gap:clamp(12px,4vw,64px)}.home-films figure{margin:0;width:min(40%,290px)}.home-films video{width:100%;aspect-ratio:9/16;background:#121c20}.home-films figcaption{margin-top:.4rem;color:#a7e4d2}
