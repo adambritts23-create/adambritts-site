@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:05,034
+How do you weigh water you can barely see? This gram of powder looks dry.
+
+2
+00:00:05,034 --> 00:00:07,718
+Let's measure its water content by counting electrons.
+
+3
+00:00:08,400 --> 00:00:13,447
+Weigh the sample, then seal the vial with a crimp cap. For this powder,
+
+4
+00:00:13,447 --> 00:00:19,214
+the oven is set to one hundred and sixty degrees Celsius. A needle pierces the cap.
+
+5
+00:00:19,214 --> 00:00:22,819
+Dry argon carries the released water into the titration cell.
+
+6
+00:00:23,500 --> 00:00:28,683
+Inside the cell, two electrodes have different jobs. The generator makes iodine.
+
+7
+00:00:28,683 --> 00:00:33,003
+The indicator tells us when a little iodine finally remains.
+
+8
+00:00:33,700 --> 00:00:39,910
+At the generator anode, two iodide ions give up two electrons to form iodine.
+
+9
+00:00:39,910 --> 00:00:44,790
+At the cathode, protonated base can accept electrons and release hydrogen.
+
+10
+00:00:44,790 --> 00:00:48,782
+The coulometer records the charge passing through this circuit.
+
+11
+00:00:49,467 --> 00:00:56,316
+Now look inside the reagent. Methanol combines with sulfur dioxide in the presence of a base
+
+12
+00:00:56,316 --> 00:01:02,309
+to form methyl sulfite. An abundance of methanol favors this side of the equilibrium.
+
+13
+00:01:03,000 --> 00:01:07,599
+As water arrives, iodine oxidizes methyl sulfite to methyl sulfate.
+
+14
+00:01:07,599 --> 00:01:12,658
+The base accepts the released protons, and iodine returns to iodide.
+
+15
+00:01:12,658 --> 00:01:19,096
+Follow the two highlighted molecules. One mole of iodine consumes one mole of water.
+
+16
+00:01:19,800 --> 00:01:24,836
+Put the preparation and oxidation steps together. Methanol, sulfur dioxide,
+
+17
+00:01:24,836 --> 00:01:29,872
+base, iodine, and water give methyl sulfate and iodide salts.
+
+18
+00:01:29,872 --> 00:01:34,908
+Every water molecule counted costs two electrons at the generator.
+
+19
+00:01:35,600 --> 00:01:41,666
+How does the instrument know when to stop? A small, fixed polarizing current passes between
+
+20
+00:01:41,666 --> 00:01:47,732
+two platinum pins. While the water consumes the iodine, a relatively high voltage is needed
+
+21
+00:01:47,732 --> 00:01:49,349
+to maintain that current.
+
+22
+00:01:50,033 --> 00:01:56,300
+Once iodine persists, one pin reduces it to iodide while the other oxidizes iodide.
+
+23
+00:01:56,300 --> 00:02:02,119
+Charge moves more easily. The voltage drops and stays low. That's the endpoint.
+
+24
+00:02:02,800 --> 00:02:08,175
+Watch the generator current over time. It rises as the sample releases water,
+
+25
+00:02:08,175 --> 00:02:14,377
+then falls toward the background. The shaded area above the drift baseline gives the charge
+
+26
+00:02:14,377 --> 00:02:18,512
+attributable to our sample, after any separate vial blank correction.
+
+27
+00:02:19,200 --> 00:02:23,866
+For a constant current, charge is current times time. When current varies,
+
+28
+00:02:23,866 --> 00:02:28,921
+add up all the little areas. That's the integral of current over time.
+
+29
+00:02:28,921 --> 00:02:34,753
+Divide the corrected charge by twice the Faraday constant, then multiply by the molar mass
+
+30
+00:02:34,753 --> 00:02:35,531
+of water.
+
+31
+00:02:36,233 --> 00:02:41,138
+Here, two point one four two coulombs give two hundred micrograms of water.
+
+32
+00:02:41,138 --> 00:02:46,043
+Our sample weighed one gram. That's two hundred parts per million by mass.
+
+33
+00:02:46,733 --> 00:02:53,505
+A result depends on the reagent as well as the electronics. Ketones can form water in methanol
+
+34
+00:02:53,505 --> 00:03:00,277
+and bias a result high. An unsuitable reagent pH or too little methanol can disrupt the reaction.
+
+35
+00:03:00,277 --> 00:03:06,253
+A dry gas path and a measured blank help separate sample water from background moisture.
+
+36
+00:03:06,933 --> 00:03:13,653
+Try the Karl Fischer cell yourself in Adam's Laboratory. Bergslagen Chemical Systems Corporation.
